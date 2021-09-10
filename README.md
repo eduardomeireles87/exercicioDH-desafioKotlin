@@ -6,12 +6,16 @@ Desafio - Kotlin
 
 A folha de exercícios foi desenvolvida para ser resolvida por módulos. Os módulos estão ordenados para serem resolvidos progressivamente e são dependentes, ou seja, precisam ser resolvidos em ordem.
 
+
+
 Arquivos a entregar:
 
 
 ● Código;
 
 ● Diagrama de classes em UML
+
+
 
 Desenvolvimento:
 
